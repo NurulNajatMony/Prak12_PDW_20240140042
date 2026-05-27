@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Prak12_PDW_20240140042/',
+  base: '/Prak12_PDW_20240140042/', // WAJIB ada baris ini agar link asetnya terbaca
 })
